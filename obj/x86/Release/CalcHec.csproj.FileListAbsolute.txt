@@ -1,0 +1,16 @@
+C:\Users\jepal\OneDrive - Fatec Centro Paula Souza\Programas\CalcHec\bin\x86\Release\CalcHec.exe.config
+C:\Users\jepal\OneDrive - Fatec Centro Paula Souza\Programas\CalcHec\bin\x86\Release\CalcHec.exe
+C:\Users\jepal\OneDrive - Fatec Centro Paula Souza\Programas\CalcHec\bin\x86\Release\CalcHec.pdb
+C:\Users\jepal\OneDrive - Fatec Centro Paula Souza\Programas\CalcHec\bin\x86\Release\Interop.WMPLib.dll
+C:\Users\jepal\OneDrive - Fatec Centro Paula Souza\Programas\CalcHec\bin\x86\Release\AxInterop.WMPLib.dll
+C:\Users\jepal\OneDrive - Fatec Centro Paula Souza\Programas\CalcHec\obj\x86\Release\CalcHec.csprojAssemblyReference.cache
+C:\Users\jepal\OneDrive - Fatec Centro Paula Souza\Programas\CalcHec\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\jepal\OneDrive - Fatec Centro Paula Souza\Programas\CalcHec\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\jepal\OneDrive - Fatec Centro Paula Souza\Programas\CalcHec\obj\x86\Release\CalcHec.csproj.ResolveComReference.cache
+C:\Users\jepal\OneDrive - Fatec Centro Paula Souza\Programas\CalcHec\obj\x86\Release\CalcHec.Forms.Abertura.resources
+C:\Users\jepal\OneDrive - Fatec Centro Paula Souza\Programas\CalcHec\obj\x86\Release\CalcHec.CalcArea.resources
+C:\Users\jepal\OneDrive - Fatec Centro Paula Souza\Programas\CalcHec\obj\x86\Release\CalcHec.Properties.Resources.resources
+C:\Users\jepal\OneDrive - Fatec Centro Paula Souza\Programas\CalcHec\obj\x86\Release\CalcHec.csproj.GenerateResource.cache
+C:\Users\jepal\OneDrive - Fatec Centro Paula Souza\Programas\CalcHec\obj\x86\Release\CalcHec.csproj.CoreCompileInputs.cache
+C:\Users\jepal\OneDrive - Fatec Centro Paula Souza\Programas\CalcHec\obj\x86\Release\CalcHec.exe
+C:\Users\jepal\OneDrive - Fatec Centro Paula Souza\Programas\CalcHec\obj\x86\Release\CalcHec.pdb
